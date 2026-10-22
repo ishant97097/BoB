@@ -1,0 +1,14 @@
+config_version=5
+
+[application]
+config/name="Battle of Buxar — Last Banner"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.65,0.76,0.8,1)

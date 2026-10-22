@@ -1,5 +1,7 @@
 # Battle of Buxar
 
+**3D Godot game:** open [`godot/project.godot`](godot/project.godot) in Godot and press F5. See [3D game instructions](godot/README.md) for controls, features, and scope. The browser game below remains the earlier strategy prototype.
+
 A dependency-free, turn-based browser strategy prototype centered on Buxar Fort, Bihar.
 
 ## Play

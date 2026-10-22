@@ -1,0 +1,16 @@
+godot/.godot/
+godot/builds/
+.ruflo/
+.swarm/
+node_modules/
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+
+# Ruflo local secrets and runtime data
+.env
+.env.local
+.env.*.local
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
